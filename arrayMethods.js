@@ -24,3 +24,4 @@ console.log(arr.reverse()); //[ 'cherry', 'banana', 'apple' ]
 
 //sort Method
 console.log(arr.sort());
+
