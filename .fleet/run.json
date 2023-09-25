@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "node",
+            "name": "Node.js configuration",
+            "file": "arrayMethods.js",
+        },
+        {
+            "type": "node",
+            "name": "Node.js configuration for ReverseArrayScenario",
+            "file": "ReverseArrayScenario.js",
+        },
+
+    ]
+}
